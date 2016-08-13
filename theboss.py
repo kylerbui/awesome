@@ -1,0 +1,6 @@
+print """ 
+
+for coding
+
+
+"""
